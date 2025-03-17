@@ -1,0 +1,29 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+
+      # You can add more steps here to dynamically update your README
+      # For example, recent blog posts, GitHub activities, etc.
+
+      - name: Commit and push if changed
+        run: |
+          git diff
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+          git add -A
+          git commit -m "Updated README" || exit 0
+          git push
