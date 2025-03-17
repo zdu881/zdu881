@@ -20,8 +20,8 @@
 ## Recent Projects
 
 - [HKUST-GZ_AcademiSync](https://github.com/Axfff/HKUST-GZ_AcademiSync)
-- [Robomaster-auto_aim](https://github.com/PnX-HKUSTGZ/auto-aim) - Brief description
-- [Creative Coding](https://editor.p5js.org/zdu881/sketches) - Brief description
+- [Robomaster-auto_aim](https://github.com/PnX-HKUSTGZ/auto-aim)
+- [Creative Coding](https://editor.p5js.org/zdu881/sketches)
 
 ## My accounts
 
