@@ -25,8 +25,6 @@
 
 ## My accounts
 
-## My Bilibili
-
 [<img src="https://static.hdslb.com/images/favicon.ico" alt="Bilibili Follow" width="40" height="40"/>](https://space.bilibili.com/473382603) Bilibili:473382603
 [<img src="https://qzonestyle.gtimg.cn/qzone/qzact/act/external/tiqq/logo.png" alt="QQ" width="40" height="40"/>](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2996453912&website=www.oicqzone.com) QQ:2996453912  
 [<img src="https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png" alt="X" width="40" height="40"/>](https://x.com/Supermaketmeplz) X: @Supermaketmeplz
